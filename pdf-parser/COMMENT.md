@@ -26,3 +26,6 @@
 - 文本提取
 - 图片识别
 - 表格识别
+
+### 额外的benchmark
+- https://huggingface.co/datasets/upstage/dp-bench
